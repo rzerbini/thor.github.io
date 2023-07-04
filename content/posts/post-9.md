@@ -1,6 +1,6 @@
 ---
 title: "Primer: Post 9"
-date: 2018-03-18T02:01:58+05:30
+date: 2023-07-03T00:01:58+03:00
 description: "This is post Nine."
 tags: [Primer, todo]
 ---
