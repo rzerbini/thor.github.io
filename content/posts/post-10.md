@@ -1,6 +1,6 @@
 ---
 title: "DWM on Debian"
-date: 2023-07-04 00:00 -000
+date: 2023-07-04T00:00:00+00:00
 categories: [home,dwm,debian]
 tags: [debian,linux,etc]             # Tag always lowercase
 ---
