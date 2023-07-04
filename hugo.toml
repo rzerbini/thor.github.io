@@ -14,7 +14,8 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "Crisp, minimal personal Inks"
+	#[blog theme for Hugo](https://github.com/knadh/hugo-ink)"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://i.pinimg.com/564x/39/0b/3b/390b3bb228dd0c6c61e201a7d7f0a6f6.jpg"
@@ -53,7 +54,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/rzerbini"
 
 [[params.social]]
 name = "RSS"

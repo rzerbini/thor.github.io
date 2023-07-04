@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debian on Clean-Ink</title>
+    <link>https://rzerbini.github.io/thor.github.io/tags/debian/</link>
+    <description>Recent content in debian on Clean-Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rzerbini.github.io/thor.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DWM on Debian</title>
+      <link>https://rzerbini.github.io/thor.github.io/posts/post-10/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzerbini.github.io/thor.github.io/posts/post-10/</guid>
+      <description>Debian install dwm https://github.com/sgomare/featherOS.git https://github.com/ChrisTitusTech/Debian-titus.git https://github.com/drewgrif/dwm-debian.git https://github.com/PietJanHein/dwm-setup https://johnjago.com/dwm/ Base Instructions from https://johnjago.com/dwm/
+wget https://dl.suckless.org/dwm/dwm-6.4.tar.gz wget https://dl.suckless.org/tools/dmenu-5.2.tar.gz wget https://dl.suckless.org/st/st-0.9.tar.gz tar xf (each_dir) cd (each_dir) make sudo make clean install sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg kitty thunar Next, create a file called .xinitrc in your home directory. Place this inside of it:
+while xsetroot -name &amp;#34;`date` `uptime | sed &amp;#39;s/.*,//&amp;#39;`&amp;#34; do sleep 1 done exec dwm other situs soon II</description>
+    </item>
+    
+  </channel>
+</rss>
