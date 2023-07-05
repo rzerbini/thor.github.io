@@ -3,7 +3,6 @@ title: "ArchLinux Notes"
 date: 2023-07-04T19:01:40-03:00
 description: "Sample article"
 tags: [archlinux]
-categories: [archlinux]
 ---
 
 this is post 11
