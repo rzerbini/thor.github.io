@@ -32,8 +32,8 @@ add to /etc/resolv.conf the nameserver=8.8.8.8
 * 3
 
 
-```bash
-sudo pacman -Syyu && sudo pacman -U package.tar.gz hight light 
+```
+sudo pacman -Syyu && sudo pacman -U package.tar.gz
 ```
 
 update hoje
