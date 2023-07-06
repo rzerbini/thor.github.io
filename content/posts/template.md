@@ -1,7 +1,8 @@
 ---
 title: "Template: Basic Formato"
-date: 2023-07-05T19:01:40-03:00
+date: 2023-07-05T1 :01:40-03:00
 description: "Template for a example Post."
+type: "post"  
 images: ["https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"]
 tags: [basic, todo]
 categories: [themes, syntax]
