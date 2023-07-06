@@ -21,7 +21,7 @@ disqusShortname = "ink-demo"
 	avatar = "https://i.pinimg.com/564x/39/0b/3b/390b3bb228dd0c6c61e201a7d7f0a6f6.jpg"
 	
 	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page"]
+	disableDisqusTypes = ["page", "post"]
 	
 	featherIconsCDN = true
 
