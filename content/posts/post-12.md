@@ -2,9 +2,7 @@
 title: "Template: Basic Formato"
 date: 2023-07-05T19:01:40-03:00
 description: "Template for a example Post."
-images: ["https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"]
 tags: [basic, todo]
-categories: [themes, syntax]
 ---
 
 You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
