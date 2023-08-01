@@ -105,7 +105,10 @@ lock: i3lock --image ~/Pictures/Backgrounds/lock.png
 
 lock & suspend: i3lock --image ~/Pictures/Backgrounds/lock.png && sudo pm-suspend
 
+---
 
+ref:
+ https://medium.com/tech-notes-and-geek-stuff/installing-bspwm-on-debian-fd6a315f6903  
+ https://github.com/thespation/dpux_bspwm/tree/main
 
-ref: https://medium.com/tech-notes-and-geek-stuff/installing-bspwm-on-debian-fd6a315f6903  
-     https://github.com/thespation/dpux_bspwm/tree/main
+see also for ArchLinux https://www.youtube.com/watch?v=PLBm0C5Gv58
